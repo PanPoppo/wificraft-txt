@@ -1,8 +1,0 @@
-{
-    "credit": "Made with Blockbench",
-    "parent": "block/carved_pumpkin_base",
-    "textures": {
-        "front": "block/jack_o_lantern",
-        "bottom": "block/pumpkin_bottom"
-    }
-}
