@@ -1,0 +1,123 @@
+{
+  "pack": {
+    "description": [
+      "",
+      {
+        "text": "BoxPvP ",
+        "color": "#FF55FF",
+        "bold": true
+      },
+      {
+        "text": "WIFICRAFT.",
+        "color": "#FFAA00",
+        "bold": true
+      },
+      {
+        "text": "PL",
+        "color": "#FFFFFF",
+        "bold": true
+      }
+    ],
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 97
+    },
+    "min_format": 34,
+    "max_format": 97
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "txs_1_20_5",
+        "formats": {
+          "min_inclusive": 34,
+          "max_inclusive": 35
+        },
+        "min_format": 34,
+        "max_format": 35
+      },
+      {
+        "directory": "txs_1_21_2",
+        "formats": {
+          "min_inclusive": 36,
+          "max_inclusive": 56
+        },
+        "min_format": 36,
+        "max_format": 56
+      },
+      {
+        "directory": "txs_textfx_legacy_lightmap",
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 81
+        },
+        "min_format": 63,
+        "max_format": 81
+      },
+      {
+        "directory": "txs_26_1",
+        "formats": {
+          "min_inclusive": 76,
+          "max_inclusive": 97
+        },
+        "min_format": 76,
+        "max_format": 97
+      },
+      {
+        "directory": "txs_glowny",
+        "formats": {
+          "min_inclusive": 34,
+          "max_inclusive": 97
+        },
+        "min_format": 34,
+        "max_format": 97
+      },
+      {
+        "directory": "txs_txs_glowny",
+        "formats": {
+          "min_inclusive": 34,
+          "max_inclusive": 97
+        },
+        "min_format": 34,
+        "max_format": 97
+      },
+      {
+        "directory": "txs_txs_1_20_5",
+        "formats": {
+          "min_inclusive": 34,
+          "max_inclusive": 35
+        },
+        "min_format": 34,
+        "max_format": 35
+      },
+      {
+        "directory": "txs_txs_1_21_2",
+        "formats": {
+          "min_inclusive": 36,
+          "max_inclusive": 56
+        },
+        "min_format": 36,
+        "max_format": 56
+      },
+      {
+        "directory": "txs_txs_textfx_legacy_lightmap",
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 81
+        },
+        "min_format": 63,
+        "max_format": 81
+      },
+      {
+        "directory": "txs_txs_26_1",
+        "formats": {
+          "min_inclusive": 76,
+          "max_inclusive": 97
+        },
+        "min_format": 76,
+        "max_format": 97
+      }
+    ]
+  }
+}

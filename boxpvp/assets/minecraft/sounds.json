@@ -1,0 +1,27 @@
+{
+  "wificraft.zakup": {
+    "sounds": [
+      {
+        "name": "wificraft/zakup",
+        "stream": true
+      }
+    ]
+  },
+
+  "wificraft.zakup1": {
+    "sounds": [
+      {
+        "name": "wificraft/zakup1",
+        "stream": true
+      }
+    ]
+  },
+  "wificraft.jumpscare": {
+    "sounds": [
+      {
+        "name": "wificraft/jumpscare",
+        "stream": true
+      }
+    ]
+  }
+}
